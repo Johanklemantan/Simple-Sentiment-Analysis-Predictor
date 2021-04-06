@@ -26,7 +26,7 @@ Logistic Regression
 <img src = 'logreg.PNG'>
 
 Multinomial Gaussian Bayes
-<img src = 'MNB.PNG'>
+<img src = 'mnb.PNG'>
 
 This model is still not recognize a lot of common words that is not available in a corpus.
 
