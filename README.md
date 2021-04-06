@@ -19,7 +19,7 @@ This model has 80% accuracy to predict validation model (5000 datas)
 #### Pipelines :
 1. Tfidf vectorizer
 2. N grams = 2
-3. Model = Logistic Regression :( and Multinomial Gaussian Bayes
+3. Model = Logistic Regression :( and Multinomial Naive Bayes
 
 #### Result : 
 
@@ -27,7 +27,7 @@ Logistic Regression
 
 <img src = 'logreg.PNG'>
 
-Multinomial Gaussian Bayes
+Multinomial Naive Bayes
 
 <img src = 'mnb.PNG'>
 
